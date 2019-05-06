@@ -1,10 +1,12 @@
-- [UnrealHx](#unrealhx)
-  - [About](#about)
-  - [UE4 and Haxe](#ue4-and-haxe)
-  - [Setup](#setup)
-  - [Credits](#credits)
-
 # UnrealHx
+
+> Table of Contents
+> - [UnrealHx](#unrealhx)
+>  - [About](#about)
+>  - [UE4 and Haxe](#ue4-and-haxe)
+>  - [Setup](#setup)
+>  - [Credits](#credits)
+
 ## About
 This repo contains the code for the [unrealcpp.com](https://www.unrealcpp.com) tutorials, ported from C++ to Haxe.
 
